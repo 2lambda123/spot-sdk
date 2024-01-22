@@ -2,7 +2,7 @@
 
 bosdyn-client >= 3.1
 
-Pillow==10.0.1
+Pillow==10.2.0
 numpy==1.18.5
 aiortc==0.9.28
 requests==2.26.0
